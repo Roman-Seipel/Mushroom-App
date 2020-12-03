@@ -1,2 +1,2 @@
 # Mushroom-App
-This is the location where I will put all of the mushroom app files.
+This is a test app to test the functionality of streamlit.
